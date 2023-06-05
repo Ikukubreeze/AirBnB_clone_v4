@@ -154,6 +154,6 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Deborah Ajayi - [Github](https://github.com/speak2debby) / [Twitter](https://twitter.com/Adeajayi_Deb)  
-Abdulmuizz Hamzat - [Github](https://github.com/Abdulmuizz98) / [Twitter](https://twitter.com/AbdulmuizzHamz1)  
+Oragwu Obinna Edward - [Github](https://github.com/Ikukubreeze)  
+dallintine Egwu - [Github](https://github.com/)
 
